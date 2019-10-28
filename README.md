@@ -7,6 +7,8 @@ Made a table. Reflection: I learned to choose a circle on circular pattern inste
 
 ## Pin 
 Made a pin to be put in Advanced and Mechanical Mates Assembly
+
+<img src="./images/Pin.PNG" alt="Pin" width="200" height="200">
 ## Advanced and Mechanical Mates
 Created box-like part to be put in Advanced and Mechanical Mates Assembly
 ## Advanced and Mechanical Mates Assembly
